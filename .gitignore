@@ -11,5 +11,5 @@ Cargo.lock
 
 .vscode
 *.pem
-.rsa
+*.rsa
 .env
